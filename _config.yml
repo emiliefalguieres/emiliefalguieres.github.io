@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeffrey L Sternberg"
+title                    : "Emilie Falguieres"
 title_separator          : "-"
-name                     : &name "Jeffrey L Sternberg"
+name                     : &name "Emilie Falguieres"
 description              : &description "My Academic Website"
-url                      : https://jeffreysternberg530.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://emiliefalguieres.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeffreysternberg530/jeffreysternberg530.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -19,21 +19,21 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 
 # Site Author
 author:
-  name             : "Jeffrey L Sternberg"
+  name             : "Emilie Falguieres"
   avatar           : "images/IMG_0678.JPG"
   bio              : "PhD Student in Sociology at Northeastern University"
   location         : "Boston, MA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sternberg.je@husky.neu.edu"
+  email            : "falguieres.e@husky.neu.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "jeff.sternberg"
+  facebook         : "falguieres emilie"
   foursquare       :
-  github           : "jeffreysternberg530"
+  github           : "emiliefalguieres"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JeffSternberg"
+  twitter          :
   vine             :
   weibo            :
   xing             :
